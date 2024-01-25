@@ -28,6 +28,8 @@ Juntos podemos realizar un gran proyecto.
 
 <a href = 'https://www.linkedin.com/in/alan-favatier-a7a67825b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
+GMAIL: alanfavatier305@gmail.com
+
 
 
 
