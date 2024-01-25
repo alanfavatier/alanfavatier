@@ -1,7 +1,11 @@
 # alan-favatier / README.md
 ¡Hola, Bienvenido/a a mi repositorio! Mi nombre es Alan Favatier
 
-¿QUIEN SOY?
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
  Soy un apasionado programador Full Stack orientado en Front-end y Back-end. Desde hace tiempo me gusta la tecnologia , he trabajado con diversas tecnologías y me encanta enfrentar nuevos desafíos que me permitan aprender y mejorar mis habilidades.
 
 ¿QUE HAGO?
@@ -29,4 +33,4 @@ Juntos podemos realizar un gran proyecto.
 Linkedin: https://www.linkedin.com/in/alan-favatier-a7a67825b/
 Correo: alanfavatier305@gmail.com
 
-REPOSITORIOS POPULARES
+
