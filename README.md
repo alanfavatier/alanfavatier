@@ -3,11 +3,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
  Soy un apasionado programador Full Stack orientado en Front-end y Back-end. Desde hace tiempo me gusta la tecnologia , he trabajado con diversas tecnologías y me encanta enfrentar nuevos desafíos que me permitan aprender y mejorar mis habilidades.
-
+<br>
 ¿QUE HAGO?
 Actualmente me dedico a crear proyectos que me permitan seguir aprendiendo, aplicando las tecnologías que he aprendido y asi poder avanzar en mi formacion como programador.
 
