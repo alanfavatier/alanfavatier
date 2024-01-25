@@ -28,7 +28,7 @@ Juntos podemos realizar un gran proyecto.
 
 <a href = 'https://www.linkedin.com/in/alan-favatier-a7a67825b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-<a href = 'https://www.linkedin.com/in/alan-favatier-a7a67825b/'><img width = '32px' align= 'center' src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail"></a> <h1>alanfavatier305@gmail.com<h1/>
+<a href = '[https://www.linkedin.com/in/alan-favatier-a7a67825b/](https://mail.google.com/mail/u/0/?pli=1#inbox)'><img width = '32px' align= 'center' src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail"></a> <h1>alanfavatier305@gmail.com<h1/>
 
 
 
