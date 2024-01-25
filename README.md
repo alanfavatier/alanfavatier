@@ -26,8 +26,10 @@ Mi principal objetivo es el desarrollo Personal y Aprendizaje Continuo, contribu
 <h2> NO DUDES EN CONTACTARME! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 Juntos podemos realizar un gran proyecto.
 
-<a href = 'https://www.linkedin.com/in/alan-favatier-a7a67825b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> :
-Correo: alanfavatier305@gmail.com
+<a href = 'https://www.linkedin.com/in/alan-favatier-a7a67825b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<br><br/>
+[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:voko.aleksey@gmail.com)
+ alanfavatier305@gmail.com
 
 
 
